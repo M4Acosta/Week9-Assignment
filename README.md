@@ -1,0 +1,3 @@
+# Week9-Assignment
+create a database for a new social media application that your company is developing.
+The database must store user data such as username, email, password, etc...
